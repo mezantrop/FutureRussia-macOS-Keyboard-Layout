@@ -5,5 +5,5 @@ This is the standard Russian keyboard layout for MacOS, but flag icons without a
   
 ## Installation
 - Download [FutureRussia.bundle.zip](FutureRussia.bundle.zip) file an unarchive it
-- Double click FutureRussia.bundle to install it
-- Change Keyboard preferences to install the bundle
+- Double-click FutureRussia.bundle to install it
+- Change Keyboard preferences to configure it
